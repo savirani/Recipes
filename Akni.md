@@ -1,0 +1,40 @@
+# Akni
+
+## Ingredents
+
+* chiccken, boil leave with water ginger galric salt hurder(ginger powder)
+onion fried light, chopped tomato fresh, girevatelu cumen seeds, salt grill all add water
+when boil ad rece and chicken
+
+
+* 1/2 onion
+* 2 large spoons of pisela tomato in oil
+* add onions if you want to fry them
+* add jiroo (small seed looking thing)
+* add chicken breast
+* crispy fired onions
+* 1 large 1 small potato
+* 1 cup of rice
+* ginger garlic (yogurt optional)
+* 3 cups of water
+* chopped tomato
+
+## steps
+
+* mix garlic ginger and a spoon or 2 yogurt together
+* fry onions in oil
+* add 3 spoons of ghee to a pan
+
+* 3 spoons of tomato paste/blended??
+
+* mix garlic ginger and a spoon or 2 yogurt together
+* add diced chicken
+* fry onion in ghee and oil on high heat
+* add cumin seeds and tomato thing!!!!!!!
+* stir and lave for 5 minutes ish
+* add the marinated chicken
+* stir
+* add the rice
+* add salt
+* add 3 cups of water and cut potatoes
+* cover and leave
