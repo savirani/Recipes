@@ -13,14 +13,14 @@
 
 1. chop the onion and garlic
 
-- pick and chop the parsley leaves
+2. pick and chop the parsley leaves
 
-- fry the garlic and onions in a saucepan and a little olive boil
+3. fry the garlic and onions in a saucepan and a little olive boil
 
-- when golden add the meat and a pinch of salt and fry until cooked
+4. when golden add the meat and a pinch of salt and fry until cooked
 
-- Add the Copped tomatoes and a table spoon of puree
+5. Add the Copped tomatoes and a table spoon of puree
 
-- bring to the boil reduce the heat and cover keep stirring occasionally
+6. bring to the boil reduce the heat and cover keep stirring occasionally
 
-- cook the spaghetti
+7. cook the spaghetti
