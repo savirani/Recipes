@@ -13,18 +13,18 @@
 ## Instructions
 1. Heat olive oil over medium high heat until shimmering then add Onions
 
-* Once the onions have softened add the vegetables then the chicken Stock and take to a simmer over high heat
+2. Once the onions have softened add the vegetables then the chicken Stock and take to a simmer over high heat
 
-* Add parsley, ginger and lemon grass
+3. Add parsley, ginger and lemon grass
 
-* once at a rolling boil add the chicken thigh skimming off the fat that goes to the top
+4. once at a rolling boil add the chicken thigh skimming off the fat that goes to the top
 
-* after 15 - 20 minutes take the chicken thighs out and shred or cut
+5. after 15 - 20 minutes take the chicken thighs out and shred or cut
 
-* add it back to the pot *If the vegetables are getting too soft take it off the heat*
+6. add it back to the pot *If the vegetables are getting too soft take it off the heat*
 
-* Add and long term flavours such as dill , minced scallions for no more than 1 minuet
+7. Add and long term flavours such as dill , minced scallions for no more than 1 minuet
 
-* Add season once the soup is complete
+8. Add season once the soup is complete
 
-* Add the soup into a separate pot and add the noodles for portion control
+9. Add the soup into a separate pot and add the noodles for portion control
