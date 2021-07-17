@@ -5,7 +5,7 @@ List of Food recipies
 [Akni](Akni.md)  
 [Bolognese](Bolognese.md)  
 [Chicken Alfredo Penne](Chicken_Alfredo_Penne.md)  
-[Chicken Soup](Chicken_Soup.md)
+[Chicken Soup](Chicken_Soup.md)  
 [Chicken Noodle Soup](Chicken_Noodle_Soup.md)  
 [Lemon Baked Cod](Lemon_Baked_Cod.md)  
 [Mashed Potatoes](Mashed_Potatoes.md)  
