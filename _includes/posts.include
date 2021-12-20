@@ -1,7 +1,9 @@
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
 
+{% assign sortedPosts = site.posts | sort: 'title' %}
+
 <ul id="List">
-    {% for post in site.posts %}
+    {% for post in sortedPosts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
@@ -30,8 +32,3 @@ function myFunction() {
   }
 }
 </script>
-
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts %}
-  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
