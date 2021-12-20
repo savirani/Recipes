@@ -1,7 +1,9 @@
 ---
 title: Recipes
 layout: default
+{{content}}
 ---
+
     <ul>
         {% for post in site.posts %}
           <li>
@@ -9,3 +11,6 @@ layout: default
           </li>
         {% endfor %}
       </ul>
+
+
+{% include posts.include %}
