@@ -1,11 +1,4 @@
-<html>
 
-    <head>
-        <title>Recipes</title>
-    </head>
-
-  <body>
-    <<p>Index Page</p>
       <ul>
         {% for post in site.posts %}
           <li>
@@ -13,5 +6,3 @@
           </li>
         {% endfor %}
       </ul>
-  </body>
-</html>
