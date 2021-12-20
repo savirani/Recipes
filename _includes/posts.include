@@ -30,3 +30,8 @@ function myFunction() {
   }
 }
 </script>
+
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in sortedPosts %}
+  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
