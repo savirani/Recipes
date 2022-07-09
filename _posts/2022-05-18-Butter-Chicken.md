@@ -3,7 +3,7 @@ layout: post
 title:  "Butter Chicken"
 ---
 
-# Mexican Tomato Rice
+# Butter Chicken
 
 ## Ingredients
 ### Marinade
