@@ -3,7 +3,7 @@ layout: post
 title:  "Kimchi Udon Stir fry"
 ---
 
-# Mexican Tomato Rice
+# Kimchi Udon Stir fry
 
 ## Ingredients
 * 2 servings udon noodles
