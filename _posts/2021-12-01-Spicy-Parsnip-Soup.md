@@ -3,7 +3,7 @@ layout: post
 title:  "Spicy Parsnip Soup"
 ---
 
-# Spicy Parsnip Soup
+# {{page.title}}
 
 ## Ingredients
 - Onions

@@ -3,7 +3,7 @@ layout: post
 title:  "Pan Seared Garlic Butter and Steak & Mushroom Cream Sauce"
 ---
 
-# Pan Seared Garlic Butter and Steak & Mushroom Cream Sauce
+# {{page.title}}
 10 min prep  
 20 min cook   
 ## Ingredients

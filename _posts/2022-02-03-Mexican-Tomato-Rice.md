@@ -3,7 +3,7 @@ layout: post
 title:  "Mexican Tomato Rice"
 ---
 
-# Mexican Tomato Rice
+# {{page.title}}
 
 ## Ingredients
 * 1 tbsp sunflower oil

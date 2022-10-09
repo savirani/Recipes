@@ -3,7 +3,7 @@ layout: post
 title:  "Lemon Baked Cod"
 ---
 
-# Lemon Baked Cod
+# {{page.title}}
 
 ## Ingredients
 * 4 cod fillets (4 Ounces Each)

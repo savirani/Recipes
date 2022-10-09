@@ -3,7 +3,7 @@ layout: post
 title:  "Butter Chicken"
 ---
 
-# Butter Chicken
+# {{page.title}}
 
 ## Ingredients
 ### Marinade

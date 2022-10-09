@@ -3,7 +3,7 @@ layout: post
 title:  "Mashed Potatoes"
 ---
 
-# Mashed Potatoes
+# {{page.title}}
 
 ## Ingredients
 * 600g Potatoes

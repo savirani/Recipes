@@ -3,7 +3,7 @@ layout: post
 title:  "Salmon Carbonara"
 ---
 
-# Salmon Carbonara
+# {{page.title}}
 
 ## Ingredients
 * 2 Salmon Fillets

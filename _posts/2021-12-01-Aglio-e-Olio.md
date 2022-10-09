@@ -3,7 +3,7 @@ layout: post
 title:  "Aglio e Olio"
 ---
 
-# Aglio e Olio
+# {{page.title}}
 
 ## Ingredients
 - half head garlic separated and peeled

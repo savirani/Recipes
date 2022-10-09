@@ -3,7 +3,7 @@ layout: post
 title:  "Chicken Alfredo Penne"
 ---
 
-# Chicken Alfredo Penne
+# {{page.title}}
 
 ## Ingredients
 

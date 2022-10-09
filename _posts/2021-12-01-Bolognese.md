@@ -4,7 +4,7 @@ title:  "Bolognase"
 ---
 
 
-# Bolognase
+# {{page.title}}
 
 ## Ingredients
 - 1 large onion

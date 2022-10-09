@@ -3,7 +3,7 @@ layout: post
 title:  "Kimchi Udon Stir fry"
 ---
 
-# Kimchi Udon Stir fry
+# {{page.title}}
 
 ## Ingredients
 * 2 servings udon noodles

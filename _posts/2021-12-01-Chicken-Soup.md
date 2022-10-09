@@ -3,7 +3,7 @@ layout: post
 title:  "Chicken Noodle Soup"
 ---
 
-# Chicken Noodle Soup
+# {{page.title}}
 
 ## Ingredients
 * Shredded Chicken Breast (Poached or Roasted)
