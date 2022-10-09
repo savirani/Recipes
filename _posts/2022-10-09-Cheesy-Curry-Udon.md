@@ -6,12 +6,6 @@ title:  "Cheesy Curry Udon"
 # {{page.title}}
 
 ## Ingredents
-
-* chiccken, boil leave with water ginger galric salt hurder(ginger powder)
-onion fried light, chopped tomato fresh, girevatelu cumen seeds, salt grill all add water
-when boil ad rece and chicken
-
-
 * 3 x 200g Udon Noodles
 * 2 Carrots
 * 3 Spring Onions
