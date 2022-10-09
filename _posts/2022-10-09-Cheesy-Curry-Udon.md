@@ -3,7 +3,7 @@ layout: post
 title:  "Cheesy Curry Udon"
 ---
 
-# Cheesy Curry Udon
+# {{page.title}}
 
 ## Ingredents
 
