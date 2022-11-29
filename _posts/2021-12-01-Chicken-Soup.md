@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chicken Noodle Soup"
+title:  "Chicken Soup"
 ---
 
 # {{page.title}}
